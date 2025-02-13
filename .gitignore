@@ -1,0 +1,20 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# ignore mp3 and webm files
+*.webm
+*.mp3
+
+# ignore db files
+*.db
+
+# ignore macos files and folders
+.DS_Store
